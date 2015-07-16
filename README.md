@@ -51,7 +51,7 @@ cd Altman/
 
 > `sudo apt-get install mono-devel mono-complete monodevelop`
 
-> Other linux : <<http://www.mono-project.com/download/>>
+> Other linux : <http://www.mono-project.com/download/>
 
 ```sh
 git clone <https://github.com/keepwn/Altman.git>
